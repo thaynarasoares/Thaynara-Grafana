@@ -1,12 +1,12 @@
 [
     {
-        "Key" : "Agua",
+        "Key" : "AGUA",
         "name" : "Agua Boa",
         "latitude" : -14.058713395427821, 
         "longitude" : -52.16189369184013
     },
     {
-        "Key" : "Alta",
+        "Key" : "ALTA",
         "name" : "Alta Floresta",
         "latitude" : -9.868344398301053,  
         "longitude" : -56.08050853490562
@@ -18,19 +18,19 @@
         "longitude" : -53.194548349918726
     },
     {
-        "Key" : "Garcas",
+        "Key" : "GARCAS",
         "name" : "Alto Garcas",
         "latitude" : -16.944957318078696,
         "longitude" : -53.52990870881903
     },
     {
-        "Key" : "AT",
+        "Key" : "TAQUARI",
         "name" : "Alto Taquari",
         "latitude" : -17.843632944218644, 
         "longitude" : -53.27969883660147
     },
     {
-        "Key" : "AP",
+        "Key" : "APIACAS",
         "name" : "Apiacas",
         "latitude" : -9.489454929721118,  
         "longitude" : -57.37224228809739
