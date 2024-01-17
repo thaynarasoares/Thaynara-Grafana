@@ -1,9 +1,9 @@
 [
     {
-        "Key" : "AGUA",
+        "Key" : "DMZ",
         "latitude" : -14.058713395427821, 
         "longitude" : -52.16189369184013,
-        "name" : "Agua Boa"
+        "name" : "Fortigate"
     },
     {
         "Key" : "ALTA",
